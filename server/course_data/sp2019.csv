@@ -1,0 +1,1295 @@
+,Department,CourseNumber,CourseName,StudentCount,AvgGPA
+0,AAS,100,Intro Asian American Studies,185,3.18
+1,AAS,215,US Citizenship Comparatively,29,3.78
+2,ABE,225,ABE Principles: Bioenvironment,44,2.89
+3,ABE,226,ABE Principles: Bioprocessing,47,3.35
+4,ABE,425,Engrg Measurement Systems,42,3.67
+5,ABE,469,Industry-Linked Design Project,33,3.55
+6,ABE,498,Special Topics,21,3.84
+7,ACCY,200,Fundamentals of Accounting,239,3.32
+8,ACCY,201,Accounting and Accountancy I,343,3.03
+9,ACCY,202,Accounting and Accountancy II,478,3.24
+10,ACCY,301,Atg Measurement & Disclosure,154,3.27
+11,ACCY,302,Decision Making for Atg,145,3.37
+12,ACCY,303,Atg Institutions and Reg,160,3.32
+13,ACCY,304,Accounting Control Systems,173,3.27
+14,ACCY,312,Principles of Taxation,178,3.3
+15,ACCY,398,Practical Problems in Atg,218,3.91
+16,ACCY,405,Assurance and Attestation,59,3.42
+17,ACCY,410,Advanced Financial Reporting,141,3.27
+18,ACCY,415,Auditing Stds and Practice,115,3.27
+19,ACCY,451,Advanced Income Tax Problems,97,3.38
+20,ACCY,501,Accounting Analysis I B,138,3.65
+21,ACCY,502,Accounting Analysis II B,242,3.57
+22,ACCY,503,Managerial Accounting,934,3.56
+23,ACCY,506,Advanced Topics in Accounting,106,3.68
+24,ACCY,507,Taxation of Bus Entities B,96,3.65
+25,ACCY,510,Financial Reporting Standards,63,3.68
+26,ACCY,512,Data Analytics for Mgmt Acctg,102,3.71
+27,ACCY,515,Auditing & Assurance Standards,68,3.4
+28,ACCY,517,Financial Statement Analysis,155,3.64
+29,ACCY,552,Partnership Income Taxation,48,3.32
+30,ACCY,575,Data Analytics Apps in ACCY,203,3.85
+31,ACE,100,Agr Cons and Resource Econ,74,2.49
+32,ACE,161,Microcomputer Applications,281,3.45
+33,ACE,199,Digital Mktg and Social Media,53,3.91
+34,ACE,210,Environmental Economics,113,3.18
+35,ACE,231,Food and Agribusiness Mgt,176,3.51
+36,ACE,232,Farm Management,50,3.29
+37,ACE,240,Personal Financial Planning,268,3.56
+38,ACE,251,The World Food Economy,87,3.27
+39,ACE,254,Economic Systems in Africa,28,3.74
+40,ACE,255,Econ of Food & Enviro Justice,56,3.77
+41,ACE,261,Applied Statistical Methods,62,3.26
+42,ACE,270,Consumer Economics,71,3.02
+43,ACE,310,Natural Resource Economics,70,3.3
+44,ACE,341,Contemporary Issues in Policy,23,3.23
+45,ACE,360,Spreadsheet Models & Applic,100,3.43
+46,ACE,398,Intermediate App Micro Theory,59,3.4
+47,ACE,403,Agricultural Law,24,3.54
+48,ACE,427,Commodity Price Analysis,27,2.95
+49,ACE,428,Commodity Futures and Options,37,3.63
+50,ACE,430,Food Marketing,34,3.0
+51,ACE,431,Agri-food Strategic Management,45,3.62
+52,ACE,435,Global Agribusiness Management,54,3.38
+53,ACE,440,Finan Plan for Professionals,31,3.63
+54,ACE,444,Finan Serv & Invest Plan,35,2.64
+55,ACE,446,Modeling App's Finan Plan,42,3.0
+56,ACE,449,Retirement & Benefit Planning,50,3.55
+57,ACE,451,Agriculture in Intl Dev,28,3.31
+58,ACE,474,Econ of Consumption,44,2.94
+59,ACE,476,Behavioral Economics,41,3.46
+60,ACES,199,Leading Organizations & Commun,123,3.36
+61,ADV,150,Introduction to Advertising,296,3.64
+62,ADV,281,Advertising Research Methods,109,2.9
+63,ADV,283,Advertising and Brand Strategy,91,3.66
+64,ADV,305,Digital ADV Content,78,3.71
+65,ADV,310,Intro to Public Relations,122,3.16
+66,ADV,311,Classic Campaigns,38,3.28
+67,ADV,312,Advertising History,40,2.82
+68,ADV,390,Content Creation,91,3.13
+69,ADV,410,Public Relations Strategies,83,3.42
+70,ADV,460,Innovation in Advertising,101,3.29
+71,ADV,476,Global Advertising,24,3.65
+72,ADV,483,Audience Analysis,125,3.26
+73,ADV,492,Tech and Advertising Campaigns,21,3.81
+74,ADV,498,The Sandage Project,89,3.79
+75,AE,199,Computer-Aided Design,70,3.51
+76,AE,202,Aerospace Flight Mechanics,84,3.29
+77,AE,311,Incompressible Flow,38,3.15
+78,AE,312,Compressible Flow,76,2.73
+79,AE,321,Mechs of Aerospace Structures,55,2.47
+80,AE,323,Applied Aerospace Structures,61,2.73
+81,AE,353,Aerospace Control Systems,50,2.91
+82,AE,370,Aerospace Numerical Methods,97,2.76
+83,AE,403,Spacecraft Attitude Control,33,3.25
+84,AE,410,Computational Aerodynamics,21,2.96
+85,AE,419,Aircraft Flight Mechanics,50,2.97
+86,AE,434,Rocket Propulsion,22,3.06
+87,AE,435,Electric Propulsion,22,3.02
+88,AE,443,Aerospace Systems Design II,129,3.58
+89,AE,461,Structures & Control Lab,120,3.8
+90,AFRO,100,Intro to African American St,87,3.56
+91,AFRO,103,Black Women in the Diaspora,25,2.81
+92,AFRO,132,African American Music,29,3.24
+93,AFRO,224,Race and Food Security,26,3.6
+94,AFRO,261,Intro to the African Diaspora,30,3.12
+95,AFRO,383,Hist of Blk Women's Activism,29,3.29
+96,AGCM,220,Communicating Agriculture,24,3.4
+97,AGCM,230,Ag & Env Photography,21,3.65
+98,AGCM,315,Emerging Media,30,3.77
+99,AGED,260,Intro to Leadership Studies,126,3.3
+100,AGED,380,Leadership in Groups and Teams,58,3.51
+101,AGED,480,Collaborative Leadership,31,3.88
+102,AIS,101,Intro to Amer Indian Studies,25,3.57
+103,AIS,265,Intro to American Indian Lit,24,3.39
+104,AIS,285,Indigenous Thinkers,26,3.56
+105,ANSC,100,Intro to Animal Sciences,33,3.36
+106,ANSC,101,Contemporary Animal Issues,194,3.66
+107,ANSC,103,Working With Farm Animals,58,3.97
+108,ANSC,110,Life With Animals and Biotech,47,3.69
+109,ANSC,205,World Animal Resources,70,3.81
+110,ANSC,207,Companion Animal Biology &Care,230,3.37
+111,ANSC,223,Animal Nutrition,136,2.93
+112,ANSC,224,Animal Reproduction and Growth,133,2.71
+113,ANSC,250,Companion Animals in Society,418,3.49
+114,ANSC,298,Undergraduate Seminar,55,3.92
+115,ANSC,305,Human Animal Interactions,36,3.51
+116,ANSC,363,Behavior of Domestic Animals,38,3.71
+117,ANSC,402,Sheep Production,27,3.74
+118,ANSC,404,Poultry Science,21,3.86
+119,ANSC,406,Zoo Animal Conservation Sci,147,3.2
+120,ANSC,407,Animal Shelter Management,32,3.19
+121,ANSC,409,Meat Science,27,3.94
+122,ANSC,438,Lactation Biology,32,3.94
+123,ANSC,444,Applied Animal Genetics,23,3.84
+124,ANSC,450,Comparative Immunobiology,42,3.07
+125,ANSC,498,Integrating Animal Sciences,63,3.69
+126,ANSC,499,Southern African Wildlife II,31,3.68
+127,ANSC,520,Protein and Energy Nutrition,27,3.52
+128,ANTH,101,Introduction to Anthropology,108,2.69
+129,ANTH,103,Anthro in a Changing World,575,3.45
+130,ANTH,106,Hist Arch Americas,78,3.35
+131,ANTH,175,Archaeology and Pop Culture,35,2.93
+132,ANTH,246,Forensic Science,540,3.68
+133,ANTH,379,Medical Anthropology,24,3.03
+134,ANTH,462,Museum Theory and Practice,34,3.54
+135,ARAB,150,Lang&Culture of Arab World,21,3.51
+136,ARCH,172,Drawing and Modeling,134,3.48
+137,ARCH,232,Structural Fundamentals,97,3.13
+138,ARCH,274,Representation,95,2.86
+139,ARCH,341,Environment Tech HVAC,37,2.64
+140,ARCH,342,Environment Tech Ltg & Acoust,62,3.15
+141,ARCH,352,Mech of Mat & Design Appl,85,3.18
+142,ARCH,409,Special Topics in Spanish Arch,35,3.37
+143,ARCH,415,Nineteenth-Century Arch,25,3.05
+144,ARCH,416,Modern American Architecture,42,3.47
+145,ARCH,452,Theory of Reinforced Concrete,93,3.38
+146,ARCH,468,Overseas Architectural Studies,36,3.4
+147,ARCH,475,Arch Design & Development,29,2.71
+148,ARCH,501,Architectural Practice,82,3.63
+149,ARCH,517,Arch History 1850-Present,73,3.52
+150,ARCH,593,Design & Construction Futures,40,3.5
+151,ART,100,Understanding Visual Culture,34,3.19
+152,ART,102,Drawing for Non-Majors,21,3.79
+153,ART,310,Design Thinking,25,3.85
+154,ARTD,326,Sustainability & Manufacturing,45,3.63
+155,ARTD,333,Type & Image,21,3.81
+156,ARTD,448,Professional Design Practice,36,3.33
+157,ARTD,471,Graphic Design Capstone,30,3.87
+158,ARTE,101,"Art, Design, and Society",165,3.39
+159,ARTH,241,"Modern Art, 1880-1940",38,3.51
+160,ARTH,257,History of Photography,74,3.15
+161,ARTH,313,Modern and Contemp African Art,23,3.42
+162,ARTH,344,Spanish Modern Art,28,3.02
+163,ASRM,210,Theory of Interest,76,2.98
+164,ASRM,406,Lin Algebra & Financial Apps,66,3.36
+165,ASRM,409,Stoch Proc for Fin & Insurance,40,3.52
+166,ASRM,410,Investments and Fin Markets,69,3.24
+167,ASRM,461,Loss Models,65,3.39
+168,ASRM,472,Life Contingencies II,68,2.99
+169,ASRM,552,Predictive Analytics,26,3.46
+170,ASTR,100,Introduction to Astronomy,492,3.14
+171,ASTR,121,Solar System and Worlds Beyond,141,3.0
+172,ASTR,122,Stars and Galaxies,168,2.99
+173,ASTR,150,Killer Skies: Astro-Disasters,93,3.39
+174,ASTR,210,Introduction to Astrophysics,76,3.04
+175,ASTR,310,Computing in Astronomy,30,3.42
+176,ASTR,330,Extraterrestrial Life,24,3.88
+177,ASTR,405,Planetary Systems,42,3.15
+178,ASTR,414,Astronomical Techniques,26,3.21
+179,ATMS,100,Introduction to Meteorology,122,3.13
+180,ATMS,120,Severe and Hazardous Weather,593,3.26
+181,ATMS,140,Climate and Global Change,56,2.83
+182,ATMS,304,Radiative Transfer-Remote Sens,25,2.77
+183,ATMS,305,Computing and Data Analysis,23,3.23
+184,ATMS,307,Climate Processes,29,2.91
+185,ATMS,314,Mesoscale Dynamics,26,3.05
+186,ATMS,420,Atmospheric Chemistry,23,3.65
+187,BADM,211,Business Analytics II,67,3.89
+188,BADM,300,The Legal Environment of Bus,371,3.38
+189,BADM,310,Mgmt and Organizational Beh,458,3.51
+190,BADM,311,Leading Individuals and Teams,41,3.64
+191,BADM,312,Designing and Managing Orgs,39,3.76
+192,BADM,313,Strategic Human Res Management,42,3.56
+193,BADM,314,Leading Negotiations,56,3.67
+194,BADM,320,Principles of Marketing,614,3.85
+195,BADM,322,Marketing Research,93,3.88
+196,BADM,323,Marketing Communications,57,3.56
+197,BADM,324,Purchasing and Supply Mgmnt,61,3.93
+198,BADM,325,Consumer Behavior,88,3.66
+199,BADM,326,Pricing Policies,43,3.35
+200,BADM,327,Marketing to Business and Govt,35,3.78
+201,BADM,329,New Product Development,35,3.76
+202,BADM,337,Practicum in Supply Chain Mgt,53,3.63
+203,BADM,340,Ethical Dilemmas of Business,56,3.78
+204,BADM,350,IT for Networked Organizations,257,3.34
+205,BADM,353,Info Sys Analysis and Design,86,3.77
+206,BADM,356,Data Science and Analytics,52,3.79
+207,BADM,359,Bus Prob Form and Soln,41,3.9
+208,BADM,374,Management Decision Models,100,3.74
+209,BADM,375,Operations Management,142,3.54
+210,BADM,378,Logistics Management,31,3.27
+211,BADM,379,Business Process Improvement,46,3.59
+212,BADM,380,International Business,112,3.38
+213,BADM,381,Multinational Management,51,3.86
+214,BADM,382,International Marketing,25,3.93
+215,BADM,403,Corporate & Commercial Law,91,3.65
+216,BADM,445,Small Business Consulting,30,3.97
+217,BADM,446,Entrep: New Venture Creation,33,3.85
+218,BADM,449,Business Policy and Strategy,421,3.71
+219,BADM,508,Leadership and Teams,933,3.59
+220,BADM,509,Managing Organizations,918,3.61
+221,BADM,520,Marketing Management,23,3.94
+222,BADM,521,Marketing Strategy,59,3.61
+223,BADM,524,Pricing Strategy and Tactics,39,3.67
+224,BADM,543,Technology Strategy,52,3.58
+225,BADM,544,Strategic Management,30,3.52
+226,BADM,550,Technology Practicum,29,3.79
+227,BADM,555,Info Sys Development and Mgt,23,3.64
+228,BADM,562,Social Media Strategy,27,3.73
+229,BADM,564,Business Process Improvement,29,3.62
+230,BADM,572,Stat for Mgt Decision Making,955,3.52
+231,BADM,574,Simulation and Risk Analysis,59,3.87
+232,BADM,583,Global Innov & Entrep,36,3.43
+233,BADM,584,Global Marketing,36,3.61
+234,BADM,589,Project Management,118,3.82
+235,BADM,590,Strategic Sourcing,1979,3.79
+236,BCS,115,South Slavic Cultures,48,3.42
+237,BIOC,446,Physical Biochemistry,68,3.42
+238,BIOE,202,Cell & Tissue Engineering Lab,28,3.21
+239,BIOE,205,Signals & Systems in Bioengrg,59,3.18
+240,BIOE,210,Linear Alg for Biomed Data Sci,68,3.17
+241,BIOE,310,Comp Tools Bio Data,39,3.65
+242,BIOE,360,Transport & Flow in Bioengrg,56,2.97
+243,BIOE,414,Biomedical Instrumentation,60,3.6
+244,BIOE,415,Biomedical Instrumentation Lab,50,3.91
+245,BIOE,420,Intro Bio Control Systems,67,3.67
+246,BIOE,574,Inno/Financial Decision Making,24,3.74
+247,BIOE,575,Capstone Project,24,3.83
+248,BIOE,598,Cancer Nanotechnology,22,3.86
+249,BTW,250,Principles Bus Comm,499,3.5
+250,BTW,261,Principles Tech Comm,93,3.36
+251,BTW,263,Writing in the Disciplines,24,3.31
+252,BTW,271,Persuasive Writing,22,3.47
+253,BUS,199,Coaching for Success,31,3.94
+254,BUS,201,Business Dynamics,37,3.6
+255,BUS,302,Principles Prof Responsibility,33,3.92
+256,CEE,201,Systems Engrg & Economics,46,3.63
+257,CEE,202,Engineering Risk & Uncertainty,103,3.22
+258,CEE,300,Behavior of Materials,89,3.1
+259,CEE,310,Transportation Engineering,52,2.88
+260,CEE,320,Construction Engineering,89,3.58
+261,CEE,330,Environmental Engineering,138,3.35
+262,CEE,350,Water Resources Engineering,63,2.81
+263,CEE,360,Structural Engineering,58,3.44
+264,CEE,380,Geotechnical Engineering,81,2.81
+265,CEE,415,Geometric Design of Roads,32,3.24
+266,CEE,418,Public Transportation Systems,30,3.27
+267,CEE,420,Construction Productivity,150,3.46
+268,CEE,421,Construction Planning,57,3.55
+269,CEE,422,Construction Cost Analysis,117,3.39
+270,CEE,424,Sustainable Const Methods,62,3.36
+271,CEE,433,Water Technology and Policy,24,3.67
+272,CEE,437,Water Quality Engineering,25,3.44
+273,CEE,449,Environmental Engineering Lab,29,3.31
+274,CEE,452,Hydraulic Analysis and Design,29,2.91
+275,CEE,460,Steel Structures I,57,3.06
+276,CEE,461,Reinforced Concrete I,46,3.67
+277,CEE,462,Steel Structures II,41,3.47
+278,CEE,465,Design of Structural Systems,38,3.44
+279,CEE,468,Prestressed Concrete,29,3.5
+280,CEE,470,Structural Analysis,28,3.43
+281,CEE,498,Construction Econ & Financing,47,3.67
+282,CEE,537,Water Quality Control Proc I,27,3.44
+283,CEE,570,Finite Element Methods,50,3.17
+284,CEE,572,Earthquake Engineering,37,3.89
+285,CEE,592,Sustainable Urban Systems,26,3.5
+286,CEE,598,Building Information Modeling,92,3.95
+287,CHBE,221,Principles of CHE,33,2.76
+288,CHBE,321,Thermodynamics,94,2.59
+289,CHBE,421,Momentum and Heat Transfer,99,2.69
+290,CHBE,422,Mass Transfer Operations,104,2.98
+291,CHBE,424,Chemical Reaction Engineering,73,2.69
+292,CHBE,430,Unit Operations Laboratory,73,3.88
+293,CHBE,431,Process Design,82,3.25
+294,CHBE,440,Process Control and Dynamics,54,3.08
+295,CHBE,455,Polymer Synthesis,45,2.94
+296,CHBE,473,Biomolecular Engineering,27,2.94
+297,CHBE,476,Biotransport,93,3.83
+298,CHBE,494,Statistics in Chemical Engrg,57,3.69
+299,CHBE,571,Bioinformatics,24,3.93
+300,CHEM,101,Introductory Chemistry,183,2.3
+301,CHEM,102,General Chemistry I,959,2.33
+302,CHEM,103,General Chemistry Lab I,948,3.6
+303,CHEM,104,General Chemistry II,938,2.6
+304,CHEM,105,General Chemistry Lab II,941,3.75
+305,CHEM,199,Undergraduate Open Seminar,436,3.85
+306,CHEM,204,Accelerated Chemistry II,150,2.71
+307,CHEM,205,Accelerated Chemistry Lab II,143,3.35
+308,CHEM,232,Elementary Organic Chemistry I,448,2.68
+309,CHEM,233,Elementary Organic Chem Lab I,432,3.37
+310,CHEM,236,Fundamental Organic Chem I,48,2.66
+311,CHEM,237,Structure and Synthesis,57,2.92
+312,CHEM,312,Inorganic Chemistry,67,2.41
+313,CHEM,315,Instrumental Chem Systems Lab,93,3.03
+314,CHEM,317,Inorganic Chemistry Lab,34,3.12
+315,CHEM,332,Elementary Organic Chem II,318,2.68
+316,CHEM,360,Chemistry of the Environment,176,3.65
+317,CHEM,420,Instrumental Characterization,59,3.02
+318,CHEM,436,Fundamental Organic Chem II,89,3.06
+319,CHEM,437,Organic Chemistry Lab,33,3.44
+320,CHEM,442,Physical Chemistry I,79,3.5
+321,CHEM,444,Physical Chemistry II,30,3.18
+322,CHEM,474,Drug Discovery & Development,93,2.98
+323,CHEM,530,Structure and Spectroscopy,32,3.48
+324,CHEM,588,Physical Methods Mat Chem,26,3.73
+325,CHLH,100,Contemporary Health,146,3.46
+326,CHLH,101,Introduction to Public Health,788,3.43
+327,CHLH,125,Orientation KIN & Comm Health,109,3.61
+328,CHLH,199,Campus Acq Rape Educ (CARE),45,3.51
+329,CHLH,200,Mental Health,94,3.44
+330,CHLH,201,Public Health Research Methods,137,3.55
+331,CHLH,206,Human Sexuality,1243,3.42
+332,CHLH,210,Community Health Organizations,112,3.39
+333,CHLH,243,Drug Use and Abuse,1404,3.64
+334,CHLH,250,Health Care Systems,165,3.58
+335,CHLH,260,Introduction to Medical Ethics,133,3.8
+336,CHLH,274,Introduction to Epidemiology,624,3.45
+337,CHLH,304,Foundations of Health Behavior,189,3.33
+338,CHLH,380,Orientation to Internship,112,3.92
+339,CHLH,407,"Disability, Culture & Society",34,3.86
+340,CHLH,409,Women's Health,48,3.26
+341,CHLH,410,Public Health Practice,92,3.66
+342,CHLH,415,International Health,42,3.46
+343,CHLH,421,Health Data Analysis,122,3.82
+344,CHLH,455,Health Services Financing,64,3.86
+345,CHLH,457,Health Planning,67,3.61
+346,CHLH,458,Health Administration,66,3.58
+347,CHLH,469,Environmental Health,22,3.94
+348,CHP,199,Immigration: A Global Phenomen,21,3.7
+349,CI,401,Intro Tchg in a Diverse Societ,54,3.59
+350,CI,404,Tchg and Assessing Sec Sch Stu,22,3.82
+351,CI,407,Thry Prac in Elem Schl Tchg II,73,3.75
+352,CI,415,"Lang Varieties,Cult,& Learning",25,3.79
+353,CI,424,Child Development & Technology,26,3.89
+354,CI,431,Tchg Elementary Mathematics,29,3.86
+355,CI,432,Invest Approach Elem Math Inst,22,3.77
+356,CI,446,Culture in the Classroom,21,3.67
+357,CI,448,Tchg Elem Social Studies,46,3.85
+358,CI,451,Tchg Elem Science II,45,3.83
+359,CI,467,Princ Tchg Lit to Child Youth,24,3.94
+360,CI,473,Disciplinary Literacy,133,3.97
+361,CI,475,Teach Elem Rdg & Lang Arts I,49,3.57
+362,CLCV,102,Medical Terms-GRK & LAT Roots,142,3.45
+363,CLCV,111,Mythology of Greece and Rome,56,3.05
+364,CLCV,115,Mythology of Greece and Rome,442,3.36
+365,CLCV,116,The Roman Achievement,185,3.57
+366,CLCV,132,"Class Archaeology, Rome-Italy",28,3.37
+367,CLCV,160,Ancient Greek & Roman Religion,24,3.18
+368,CLCV,220,Wonders of the world,49,3.4
+369,CMN,102,Intro to Comm Theory & Res,217,2.58
+370,CMN,211,Business Communication,68,3.52
+371,CMN,212,Intro to Organizational Comm,87,3.35
+372,CMN,213,Small Group Communication,58,3.73
+373,CMN,215,Interviewing,24,3.42
+374,CMN,220,Communicating Public Policy,46,3.45
+375,CMN,230,Intro to Interpersonal Comm,177,3.01
+376,CMN,231,Communication and Conflict,32,3.48
+377,CMN,232,Intro to Intercultural Comm,111,3.45
+378,CMN,250,Social Movement Communication,33,3.0
+379,CMN,260,Intro to Health Communication,116,3.0
+380,CMN,277,Intro to Mediated Comm,71,2.36
+381,CMN,280,Comm Technology & Society,30,2.97
+382,CMN,312,Communicating for Innovation,33,3.32
+383,CMN,321,Strategies of Persuasion,52,2.67
+384,CMN,336,Family Communication,61,3.8
+385,CMN,338,Relationships and Technologies,34,3.1
+386,CMN,340,Visual Politics,56,3.47
+387,CMN,368,Sexual Communication,148,3.34
+388,CMN,375,The American Family,104,3.14
+389,CMN,396,Intercultural Rhetoric,207,2.98
+390,CMN,410,Workplace Comm Technology,30,3.22
+391,CMN,412,Adv Organizational Comm,22,3.15
+392,CMN,421,Persuasion Theory & Research,30,2.87
+393,CMN,435,Adv Interpersonal Comm,28,3.44
+394,CMN,462,Interpersonal Health Comm,29,3.22
+395,CMN,463,Organizational Health Comm,48,3.29
+396,CMN,464,Health Communication Campaigns,32,3.43
+397,CPSC,112,Introduction to Crop Sciences,59,3.04
+398,CPSC,116,The Global Food Production Web,187,3.81
+399,CPSC,117,Agric. & Science of Coffee,74,3.82
+400,CPSC,131,Agriculture in Mythology,505,3.71
+401,CPSC,261,Biotechnology in Agriculture,26,3.19
+402,CPSC,265,Genetic Engineering Lab,21,3.95
+403,CPSC,418,Crop Growth and Management,37,3.26
+404,CPSC,440,Applied Statistical Methods I,64,3.52
+405,CPSC,453,Principles of Plant Breeding,25,3.79
+406,CPSC,542,Applied Statistical Methods II,32,3.8
+407,CS,101,Intro Computing: Engrg & Sci,694,3.63
+408,CS,105,Intro Computing: Non-Tech,584,3.64
+409,CS,125,Intro to Computer Science,436,3.44
+410,CS,126,Software Design Studio,313,3.48
+411,CS,173,Discrete Structures,593,3.01
+412,CS,196,Freshman Honors,60,3.61
+413,CS,199,Python for Data,28,3.75
+414,CS,210,Ethical & Professional Issues,130,3.65
+415,CS,225,Data Structures,458,3.18
+416,CS,233,Computer Architecture,263,3.2
+417,CS,241,System Programming,266,2.92
+418,CS,242,Programming Studio,168,3.48
+419,CS,296,Honors Course,102,3.85
+420,CS,357,Numerical Methods I,349,3.25
+421,CS,361,Prob & Stat for Computer Sci,142,3.25
+422,CS,374,Intro to Algs & Models of Comp,457,2.56
+423,CS,398,Introduction to Data Science,71,3.77
+424,CS,410,Text Information Systems,198,3.88
+425,CS,411,Database Systems,334,3.59
+426,CS,412,Introduction to Data Mining,330,3.38
+427,CS,418,Interactive Computer Graphics,68,3.0
+428,CS,421,Progrmg Languages & Compilers,310,3.56
+429,CS,423,Operating Systems Design,42,2.94
+430,CS,425,Distributed Systems,168,3.18
+431,CS,429,"Software Engineering II, ACP",22,3.76
+432,CS,431,Embedded Systems,36,3.54
+433,CS,433,Computer System Organization,24,3.33
+434,CS,438,Communication Networks,63,2.79
+435,CS,440,Artificial Intelligence,315,3.42
+436,CS,446,Machine Learning,201,3.46
+437,CS,450,Numerical Analysis,131,3.26
+438,CS,460,Security Laboratory,95,3.78
+439,CS,461,Computer Security I,105,2.86
+440,CS,463,Computer Security II,22,3.73
+441,CS,465,User Interface Design,83,3.46
+442,CS,466,Introduction to Bioinformatics,63,3.86
+443,CS,467,Social Visualization,50,3.9
+444,CS,477,Formal Software Devel Methods,23,3.48
+445,CS,484,Parallel Programming,44,3.24
+446,CS,498,Virtual Reality,1169,3.66
+447,CS,512,Data Mining Principles,68,3.69
+448,CS,527,Topics in Software Engineering,23,3.83
+449,CS,533,Parallel Computer Architecture,23,3.59
+450,CS,538,Advanced Computer Networks,38,3.75
+451,CS,555,Numerical Methods for PDEs,25,3.87
+452,CS,579,Computational Complexity,26,3.65
+453,CS,598,Stat Reinforcement lrng,23,3.88
+454,CW,100,Intro to Creative Writing,46,3.64
+455,CW,200,Reading for Writers,22,3.08
+456,CW,243,Inter Expository Writing,22,3.17
+457,CWL,207,Indian Cinema in Context,191,3.92
+458,DANC,100,Intro to Contemporary Dance,273,3.71
+459,DANC,101,Modern Dance I,22,3.71
+460,DANC,107,Ballet I,21,3.65
+461,DANC,212,Musical Theater Dance,26,3.62
+462,DANC,260,Int Contemp Modern Tech Core,25,3.48
+463,DANC,268,Music Theory for Dancers,29,3.11
+464,DANC,340,Dancing Black Popular Culture,52,3.57
+465,ECE,110,Introduction to Electronics,376,3.25
+466,ECE,120,Introduction to Computing,246,3.13
+467,ECE,205,Electrical & Electronic Ckts,222,2.99
+468,ECE,206,Electrical & Electronics Lab,89,3.94
+469,ECE,210,Analog Signal Processing,305,2.61
+470,ECE,220,Computer Systems & Programming,276,2.85
+471,ECE,310,Digital Signal Processing,198,2.98
+472,ECE,311,Digital Signal Processing Lab,133,3.52
+473,ECE,313,Probability with Engrg Applic,231,2.63
+474,ECE,314,Probability in Engineering Lab,74,3.81
+475,ECE,316,Ethics and Engineering,63,3.47
+476,ECE,317,ECE Technology & Management,29,3.52
+477,ECE,329,Fields and Waves I,115,2.69
+478,ECE,330,Power Ckts & Electromechanics,104,2.6
+479,ECE,333,Green Electric Energy,68,3.17
+480,ECE,340,Semiconductor Electronics,128,2.67
+481,ECE,342,Electronic Circuits,107,2.78
+482,ECE,343,Electronic Circuits Laboratory,29,3.9
+483,ECE,350,Fields and Waves II,32,3.22
+484,ECE,365,Data Science and Engineering,36,3.29
+485,ECE,385,Digital Systems Laboratory,337,3.16
+486,ECE,391,Computer Systems Engineering,198,2.93
+487,ECE,402,Electronic Music Synthesis,46,3.62
+488,ECE,408,Applied Parallel Programming,95,2.93
+489,ECE,411,Computer Organization & Design,139,2.8
+490,ECE,418,Image & Video Processing,47,3.41
+491,ECE,420,Embedded DSP Laboratory,52,3.67
+492,ECE,431,Electric Machinery,54,3.15
+493,ECE,444,IC Device Theory & Fabrication,45,3.06
+494,ECE,445,Senior Design Project Lab,216,3.04
+495,ECE,470,Introduction to Robotics,99,3.2
+496,ECE,481,Nanotechnology,37,3.65
+497,ECE,483,Analog IC Design,42,3.28
+498,ECE,486,Control Systems,75,3.48
+499,ECE,490,Introduction to Optimization,31,3.03
+500,ECE,498,Smartphone Computing and Appli,128,3.06
+501,ECE,511,Computer Architecture,28,3.43
+502,ECE,515,Control System Theory & Design,27,3.74
+503,ECE,534,Random Processes,46,3.65
+504,ECE,543,Statistical Learning Theory,33,3.64
+505,ECE,549,Computer Vision,230,3.69
+506,ECON,102,Microeconomic Principles,1316,3.43
+507,ECON,103,Macroeconomic Principles,1166,3.23
+508,ECON,199,Introduction to Game Theory,40,3.78
+509,ECON,202,Economic Statistics I,163,2.9
+510,ECON,203,Economic Statistics II,664,2.9
+511,ECON,302,Inter Microeconomic Theory,675,2.53
+512,ECON,303,Inter Macroeconomic Theory,275,2.93
+513,ECON,402,American Economic History,36,2.78
+514,ECON,411,Public Sector Economics,33,2.76
+515,ECON,414,Urban Economics,28,3.3
+516,ECON,417,Cost-Benefit Analysis,37,3.2
+517,ECON,418,Health Economics,39,3.36
+518,ECON,420,International Economics,39,3.09
+519,ECON,426,Monetary Economics and Policy,29,2.98
+520,ECON,437,Game Theory,67,2.96
+521,ECON,440,Economics of Labor Markets,33,3.07
+522,ECON,447,Economics of the Workplace,64,3.16
+523,ECON,448,Employee Comp & Incentives,65,2.91
+524,ECON,450,Development Economics,62,3.26
+525,ECON,453,Econ Middle East & N. Africa,38,3.31
+526,ECON,455,Economics: Poverty Alleviation,34,3.57
+527,ECON,460,Financial Economics,40,3.31
+528,ECON,471,Intro to Applied Econometrics,162,2.68
+529,ECON,472,Financial Econometrics,30,3.36
+530,ECON,475,Economic Forecasting,96,3.33
+531,ECON,480,Industrial Comp and Monopoly,26,2.44
+532,ECON,481,Govt Reg of Economic Activity,84,3.27
+533,ECON,484,Law and Economics,34,3.57
+534,ECON,490,Applied Machine Learning: Econ,165,3.21
+535,ECON,501,Macroeconomics,30,3.69
+536,ECON,503,Econometrics,71,3.47
+537,ECON,517,Monetary Policy,42,3.5
+538,ECON,519,Development and Growth Policy,35,3.65
+539,ECON,528,Microeconomics for Business,844,3.63
+540,ECON,590,Industrial Organization,65,3.68
+541,EDUC,201,Identity and Difference in Edu,85,3.77
+542,EDUC,202,Social Justice Sch & Society,89,3.76
+543,ENG,398,ELA Leadership Training,37,3.96
+544,ENG,471,Seminar Energy & Sustain Engrg,41,3.8
+545,ENG,491,Nanosatellite Design Build 1,21,3.89
+546,ENG,598,Teaching and Leadership,31,3.54
+547,ENGL,104,Intro to Film,74,3.41
+548,ENGL,109,Intro to Fiction-ACP,44,3.64
+549,ENGL,119,Harry Potter and More,28,3.69
+550,ENGL,120,Science Fiction,26,3.55
+551,ENGL,200,Intro to the Study of Lit,23,3.65
+552,ENGL,202,Medieval Lit and Culture,31,3.16
+553,ENGL,204,Renaissance Lit and Culture,24,3.74
+554,ENGL,218,Introduction to Shakespeare,31,3.48
+555,ENGL,250,19thc American Fiction,21,3.49
+556,ENGL,286,Asian American Literature,25,3.33
+557,ENGL,300,Very Recent Fiction,46,3.23
+558,ENGL,301,CriticalApproaches to Lit&Text,69,3.29
+559,ENGL,310,Intro to Study of Engl Lang,31,3.36
+560,ENGL,380,Self-Publishing,28,3.5
+561,ENGL,402,Descriptive English Grammar,26,3.46
+562,ENGL,418,Shakespeare,22,3.6
+563,ENSU,310,Renewable & Alternative Energy,21,3.4
+564,EOL,541,Supervision of Learning Envir,22,3.62
+565,EOL,548,Poli & Cultural Context of Ed,21,3.9
+566,EOL,568,"Diversity, Leadership & Policy",104,3.77
+567,EOL,574,Diversity in Higher Education,28,3.56
+568,EPOL,585,Ethnographic Methods in Educ,33,3.77
+569,EPS,411,School and Society,27,3.31
+570,EPS,529,Education and Human Rights,93,3.79
+571,EPS,537,Globalizing Educational Policy,24,3.86
+572,EPSY,201,Educational Psychology,170,3.76
+573,EPSY,202,Exploring Cultural Diversity,67,3.17
+574,EPSY,220,Career Theory and Practice,21,3.79
+575,EPSY,401,Child Language and Education,21,3.6
+576,EPSY,420,Theories of Psychotherapy,93,3.48
+577,EPSY,480,Educational Statistics,47,3.83
+578,EPSY,490,Prep for Recruitment Counselor,81,3.95
+579,EPSY,553,Global Issues in Learning,30,3.88
+580,EPSY,581,Applied Regression Analysis,30,3.89
+581,ESE,311,Environmental Issues Today,32,3.39
+582,ESE,445,Earth Resources Sustainability,42,3.25
+583,FAA,102,Design Beyond Boundaries,29,3.05
+584,FAA,202,Artsful Teaching through Integ,65,3.81
+585,FIN,221,Corporate Finance,664,3.09
+586,FIN,230,Introduction to Insurance,125,3.38
+587,FIN,241,Fundamentals of Real Estate,120,3.49
+588,FIN,300,Financial Markets,175,2.75
+589,FIN,321,Advanced Corporate Finance,215,3.46
+590,FIN,392,Investment Management Academy,31,3.74
+591,FIN,411,Investment & Portfolio Mngt,90,3.74
+592,FIN,412,Options and Futures Markets,41,3.08
+593,FIN,423,Financing Emerging Businesses,91,3.82
+594,FIN,435,Personal Wealth Management,96,3.1
+595,FIN,443,Legal Issues in Real Estate,31,3.53
+596,FIN,444,Urban Real Estate Valuation,36,3.73
+597,FIN,446,Real Estate Financial Markets,35,3.77
+598,FIN,461,Financial Intermediation,45,3.79
+599,FIN,463,Investment Banking,29,3.48
+600,FIN,490,Entrepreneurship Thru Acquistn,21,3.95
+601,FIN,500,Introduction to Finance,53,3.88
+602,FIN,512,Financial Derivatives,98,3.41
+603,FIN,513,Financial Engineering I,27,3.93
+604,FIN,521,Advanced Corporate Finance,30,3.53
+605,FIN,527,Mergers & Acquisitions Topics,34,3.65
+606,FIN,544,Urban Real Estate Valuation,21,3.78
+607,FIN,546,Real Estate Financial Markets,25,3.76
+608,FIN,551,International Finance,27,3.41
+609,FIN,563,Investment Banking,35,3.59
+610,FIN,567,Financial Risk Management,118,3.58
+611,FIN,580,Corporate Finance I & II,931,3.59
+612,FR,418,Language&Minorities in Europe,30,3.57
+613,FSHN,101,Intro Food Science & Nutrition,230,2.91
+614,FSHN,120,Contemporary Nutrition,703,3.44
+615,FSHN,232,Science of Food Preparation,39,3.62
+616,FSHN,260,Raw Materials for Processing,34,3.64
+617,FSHN,312,Applied Microbiology Methods,43,3.75
+618,FSHN,329,Communication in Nutrition,33,3.92
+619,FSHN,349,Food Service Sanitation,28,3.55
+620,FSHN,398,Nutritional Physiology II,53,3.44
+621,FSHN,414,Food Chemistry,38,3.82
+622,FSHN,418,Food Analysis,42,3.67
+623,FSHN,421,Pediatric Clinical Nutrition,26,3.72
+624,FSHN,426,Biochemical Nutrition I,30,3.79
+625,FSHN,427,Biochemical Nutrition II,58,3.86
+626,FSHN,460,Food Processing Engineering,44,3.57
+627,FSHN,464,Beverage Science & Technology,23,3.75
+628,FSHN,471,Food & Industrial Microbiology,67,3.47
+629,FSHN,502,Advanced Sensory Science,38,3.98
+630,GCL,144,Stereotypes & Discrimination,25,3.93
+631,GCL,145,Black Music & Social Justice,23,3.84
+632,GEOG,101,Global Development&Environment,161,3.74
+633,GEOG,103,Earth's Physical Systems,53,3.14
+634,GEOG,204,Cities of the World,23,3.26
+635,GEOG,210,Social & Environmental Issues,55,3.45
+636,GEOG,350,Sustainability and the City,28,3.49
+637,GEOG,371,Spatial Analysis,29,3.03
+638,GEOG,379,Intro to GIS Systems,58,3.25
+639,GEOG,380,GIS II: Spatial Prob Solving,30,3.39
+640,GEOG,440,Business Applications of GIS,27,3.79
+641,GEOG,477,Introduction to Remote Sensing,24,3.46
+642,GEOL,100,Planet Earth,43,2.82
+643,GEOL,104,Geology of the National Parks,95,3.28
+644,GEOL,111,Emergence of Life,200,3.09
+645,GEOL,118,Natural Disasters,210,2.85
+646,GEOL,440,Sedimentology and Stratigraphy,25,3.33
+647,GER,102,Beginning German II,21,3.19
+648,GER,103,Intermediate German I,43,2.75
+649,GER,251,Grimm's Fairy Tales in Context,153,3.5
+650,GER,261,The Holocaust in Context,25,3.77
+651,GLBL,100,Intro to Global Studies,163,3.62
+652,GLBL,270,Intro Global Markets & Society,38,3.47
+653,GLBL,296,Gender & Intl Human Rights Law,73,3.66
+654,GLBL,392,Int Diplomacy and Negotiation,23,3.17
+655,GLBL,450,Poverty Interventions and Eval,21,3.4
+656,GS,198,DGS Honors Seminar,99,3.92
+657,GWS,100,Intro Gender & Women's Studies,51,2.77
+658,GWS,202,Sexualities,85,3.23
+659,GWS,204,Gender in Gaming,29,3.49
+660,HDFS,105,Intro to Human Development,377,3.62
+661,HDFS,120,Intro to Family Studies,99,3.18
+662,HDFS,208,Child Fam with Special Needs,59,3.94
+663,HDFS,220,Families in Global Perspective,100,3.26
+664,HDFS,225,Close Relationships,46,3.48
+665,HDFS,290,Intro to Research Methods,35,3.44
+666,HDFS,305,Middle Childhood,50,3.43
+667,HDFS,310,Adult Development,36,3.58
+668,HDFS,322,US Latina and Latino Families,39,3.41
+669,HDFS,408,Hospitalized Children,33,3.81
+670,HDFS,420,Inequality Public Pol & US Fam,46,3.81
+671,HDFS,426,Family Conflict Management,44,3.24
+672,HDFS,444,"LGBT Indiv, Fam & Community",21,3.63
+673,HIST,100,Global History,91,3.48
+674,HIST,101,History Now!,26,2.99
+675,HIST,104,Black Music,68,3.87
+676,HIST,105,Latin America to Independence,33,3.37
+677,HIST,110,History of Africa,34,2.87
+678,HIST,120,East Asian Civilizations,21,2.33
+679,HIST,135,History of Islamic Middle East,33,3.04
+680,HIST,141,Western Civ to 1660,72,3.06
+681,HIST,142,Western Civ Since 1660,22,3.29
+682,HIST,171,US Hist to 1877,71,3.15
+683,HIST,172,US Hist Since 1877,23,3.48
+684,HIST,221,Modern China,24,3.81
+685,HIST,241,History of Ancient Rome,95,3.66
+686,HIST,251,Warfare Milit Insts & Soc,45,2.79
+687,HIST,258,20thC World to Midcentury,31,3.14
+688,HIST,260,History of Russia,43,3.43
+689,HIST,264,Technology in Western Society,29,3.81
+690,HIST,265,Science in Western Civ,29,3.25
+691,HIST,273,Illinois History,30,3.44
+692,HIST,274,US & World Since 1917,22,3.52
+693,HIST,280,Caribbean Latina/o Migration,37,3.67
+694,HIST,281,Constructing Race in America,41,3.6
+695,HIST,283,Asian American History,77,3.45
+696,HIST,287,African-American Women,48,3.09
+697,HIST,293,The President and the People,27,3.33
+698,HIST,300,Topics in Film and History,22,3.15
+699,HIST,310,Global Capitalism in History,33,3.66
+700,HIST,312,Immigrant America,28,3.25
+701,HIST,334,Modern Palestinian History,27,3.09
+702,HIST,361,Euro Thght & Soc Since 1789,24,3.32
+703,HIST,374,Civil War and Reconstruction,38,3.47
+704,HIST,377,United States since 1932,29,3.67
+705,HIST,381,Urban History,29,3.41
+706,HIST,390,Sport and Society,33,3.64
+707,HIST,397,Sexuality in Modern Europe,27,3.47
+708,HIST,441,The Roman Empire,27,3.65
+709,HORT,106,The Sustainable Home Garden,82,3.61
+710,HORT,107,Introduction to Floral Design,105,3.75
+711,HORT,430,Children and Nature,124,3.38
+712,HRD,411,Instruct & Train System Design,43,3.64
+713,HRD,472,Learning Technologies,22,3.92
+714,HRD,530,Organization Development,31,3.86
+715,HRD,535,Consulting in HRD,25,3.79
+716,HRD,585,Program Evaluation,39,3.69
+717,IB,100,Biology in Today's World,288,3.19
+718,IB,103,Introduction to Plant Biology,112,3.14
+719,IB,105,Environmental Biology,63,3.42
+720,IB,108,The Biology of Dinosaurs,173,3.01
+721,IB,150,Organismal & Evolutionary Biol,424,3.11
+722,IB,151,Organismal & Evol Biol Lab,173,3.64
+723,IB,199,Undergraduate Open Seminar,89,3.91
+724,IB,202,Physiology,163,3.54
+725,IB,271,Organismal Biology,22,3.86
+726,IB,302,Evolution,132,3.02
+727,IB,329,Animal Behavior,175,3.41
+728,IB,335,Systematics of Plants,22,3.23
+729,IB,361,Ecology and Human Health,115,3.71
+730,IB,420,Plant Physiology,28,3.8
+731,IB,432,Genes and Behavior,42,3.82
+732,IB,435,Critical Eval Herbal Remedies,28,3.82
+733,IB,451,Conservation Biology,29,3.43
+734,IB,453,Community Ecology,25,3.31
+735,IB,483,Insect Pathology,28,2.84
+736,IB,496,Analysis of Biological Data in,33,3.82
+737,IB,532,Sustainability & Global Change,21,3.91
+738,IB,536,Evolutionary Biology,28,3.95
+739,IE,300,Analysis of Data,116,2.66
+740,IE,310,Determin Models in Optmzation,77,3.26
+741,IE,330,Industrial Quality Control,34,2.71
+742,IE,340,Human Factors,45,3.73
+743,IE,361,Production Planning & Control,74,3.5
+744,IE,370,Stochastic Processes & Applic,64,3.46
+745,IE,413,Simulation,56,2.58
+746,IE,420,Financial Engineering,60,3.13
+747,IE,431,Design for Six Sigma,25,3.19
+748,IE,521,Convex Optimization,50,3.61
+749,IE,525,Numerical Methods in Finance,60,3.48
+750,IE,526,Stochastic Calculus in Finance,63,3.55
+751,IHLT,102,Survey of Interdisc Health,51,3.67
+752,IHLT,232,Health Disparities in the U.S.,44,3.78
+753,IHLT,375,Interdis Collab in Health Serv,78,3.79
+754,IHLT,474,Pre-Field Experience in Health,51,3.63
+755,IHLT,475,Field Experience in i-Health,26,3.92
+756,INFO,102,Little Bits to Big Ideas,215,3.48
+757,INFO,202,Social Aspects Info Tech,128,2.82
+758,INFO,403,Top Down Video Game Design,26,3.78
+759,INFO,490,Makerspace Intro: Open Studio,202,3.51
+760,IS,409,Storytelling,23,3.71
+761,IS,452,Foundations Info Processing,33,3.78
+762,IS,457,Introduction to Data Science,39,3.52
+763,IS,458,Instruc Strat Tech Info Prof,25,3.86
+764,IS,501,Info Org and Access,63,3.92
+765,IS,502,Libraries Info and Society,73,3.82
+766,IS,504,Reference and Info Services,27,3.85
+767,IS,506,Youth Services Librarianship,24,3.83
+768,IS,508,Collection Development,35,3.95
+769,IS,516,School Library Media Center,22,3.69
+770,IS,543,Sociotechnical Info Systems,114,3.97
+771,IS,561,Information Modeling,73,3.8
+772,IS,567,Academic Librarianship,26,3.74
+773,IS,586,Digital Preservation,21,3.91
+774,IS,590,Progr Analytics & Data Process,143,3.79
+775,JOUR,200,Introduction to Journalism,195,3.04
+776,JOUR,293,Digital Photography 4 Everyone,50,3.26
+777,JOUR,311,Media Law,58,3.36
+778,JOUR,361,Readings in Sports Journalism,31,3.45
+779,JOUR,450,Media and Public Opinion,27,3.52
+780,JOUR,453,Crisis Communications,56,3.61
+781,JOUR,460,PHOTOJOURNALISM AND SOCIETY,53,3.23
+782,KIN,103,Indoor Court Activities,36,3.84
+783,KIN,104,Skating Activities,635,3.7
+784,KIN,109,Team Sport Activities,85,3.87
+785,KIN,122,Physical Activity and Health,717,3.34
+786,KIN,125,Orientation KIN & Comm Health,82,3.83
+787,KIN,140,Social Sci of Human Movement,110,2.24
+788,KIN,142,Contemporary Issues in Sport,1087,3.58
+789,KIN,150,Bioscience of Human Movement,108,3.13
+790,KIN,201,Phys Activity Research Methods,99,3.56
+791,KIN,247,Intro to Sport Psychology,690,3.81
+792,KIN,249,Sport & Modern Society,1175,3.73
+793,KIN,259,Motor Development and Control,72,2.57
+794,KIN,268,Children's Movement,40,3.74
+795,KIN,340,Soc & Psych of Phys Activity,138,3.37
+796,KIN,352,Bioenergetics of Movement,115,3.29
+797,KIN,355,Biomechanics of Human Movement,94,3.01
+798,KIN,369,Coaching Strategies,22,3.67
+799,KIN,401,Measure & Eval in Kinesiology,45,3.72
+800,KIN,443,Psychophysiology in Ex & Sport,73,3.71
+801,KIN,494,Physiology of High Performance,29,3.61
+802,LA,221,History of the Prison,77,3.03
+803,LA,222,Islamic Gardens & Architecture,76,2.92
+804,LA,314,History of World Landscapes,105,3.47
+805,LAS,399,Leadership & Prof Development,82,3.87
+806,LAW,302,Transitional Justice,25,2.93
+807,LAW,303,Living the Law,40,3.68
+808,LAW,601,Contracts,81,3.2
+809,LAW,602,Property,40,3.2
+810,LAW,604,Criminal Law,21,3.19
+811,LAW,606,Constitutional Law I,121,3.17
+812,LAW,607,Civil Procedure,80,3.22
+813,LAW,610,Introduction to Advocacy,87,3.19
+814,LAW,616,Environmental Law and Pol I,23,3.51
+815,LAW,624,Real Estate Finance,21,3.41
+816,LAW,631,Secured Transactions,47,3.39
+817,LAW,633,Business Associations I,27,3.42
+818,LAW,638,White Collar Crime,38,3.47
+819,LAW,639,Corporate Finance,22,3.48
+820,LAW,644,Copyright Law,30,3.29
+821,LAW,664,Employment Discrimination,24,3.39
+822,LAW,670,Elder Law,52,3.4
+823,LAW,680,Professional Responsibility,66,3.34
+824,LAW,682,Evidence,40,3.4
+825,LAW,685,Dispute Resolution,21,3.29
+826,LAW,792,Advanced Legal Research,86,3.41
+827,LAW,794,Mergers & Acquisitions,74,3.41
+828,LAW,795,International Criminal Law,21,3.36
+829,LER,100,Introduction to Labor Studies,98,2.27
+830,LER,110,Labor and Social Movements,28,2.44
+831,LER,120,Contemporary Labor Problems,22,1.8
+832,LER,542,Collective Bargaining,55,3.86
+833,LER,565,HR Management and Strategy,24,3.74
+834,LER,567,Negotiation in HR Decisions,31,3.9
+835,LER,568,Firm Performance and HR,34,3.3
+836,LER,569,Power & Influence in HRM,40,3.85
+837,LER,590,"Work, Family and Orgnizations",361,3.77
+838,LER,591,Employment Relations Systems,22,3.82
+839,LER,593,Quantitative Methods in LER,23,3.77
+840,LER,595,Managing Diversity Globally,27,3.75
+841,LING,100,Intro to Language Science,78,3.43
+842,LING,111,Language in Globalization,70,3.3
+843,LING,210,Language History,29,3.62
+844,LING,225,"Language, Mind, and Brain",35,3.14
+845,LING,270,"Language, Technology & Society",28,3.37
+846,LING,301,Elements of Syntax,34,2.18
+847,LING,302,Elements of Phonology,35,2.7
+848,LING,307,Elmnts Semantics & Pragmatics,37,2.92
+849,LING,406,Intro to Computational Ling,58,3.59
+850,LING,490,Special Topics in Linguistics,32,3.55
+851,LLS,100,Intro Latina/Latino Studies,98,3.32
+852,LLS,240,Latina/o Popular Culture,28,3.27
+853,LLS,265,Politics of Hip Hop,35,3.67
+854,LLS,279,Mexican-American History,50,3.5
+855,LLS,343,Criminalization and Punishment,22,3.21
+856,MACS,100,Intro to Popular TV & Movies,293,3.55
+857,MACS,101,Intro to the Media,494,3.58
+858,MACS,203,Contemporary Movies,43,3.17
+859,MACS,224,Sportsmedia Technology Culture,23,3.83
+860,MACS,262,Survey of World Cinema II,24,2.93
+861,MACS,264,Creative and Info Economies,35,3.61
+862,MACS,320,Popular Culture,30,3.0
+863,MACS,323,Video and Audio Postproduction,25,3.69
+864,MACS,326,"New Media, Culture & Society",33,3.34
+865,MACS,351,Social Aspects of Media,23,3.33
+866,MACS,356,Sex & Gender in Popular Media,52,2.54
+867,MACS,496,American Movies of the 1980's,22,3.46
+868,MATH,103,Theory of Arithmetic,37,3.59
+869,MATH,112,Algebra,44,1.87
+870,MATH,115,Preparation for Calculus,129,2.55
+871,MATH,117,Elementary Mathematics,26,3.74
+872,MATH,124,Finite Mathematics,69,2.41
+873,MATH,181,A Mathematical World,29,3.07
+874,MATH,199,Undergraduate Open Seminar,24,3.83
+875,MATH,213,Basic Discrete Mathematics,99,3.45
+876,MATH,220,Calculus,504,2.12
+877,MATH,225,Introductory Matrix Theory,381,3.06
+878,MATH,231,Calculus II,940,2.77
+879,MATH,234,Calculus for Business I,630,2.55
+880,MATH,241,Calculus III,910,2.69
+881,MATH,285,Intro Differential Equations,658,3.02
+882,MATH,286,Intro to Differential Eq Plus,260,3.2
+883,MATH,347,Fundamental Mathematics,163,2.87
+884,MATH,402,Non Euclidean Geometry,30,2.88
+885,MATH,403,Euclidean Geometry,25,3.57
+886,MATH,412,Graph Theory,34,3.32
+887,MATH,413,Intro to Combinatorics,84,3.01
+888,MATH,415,Applied Linear Algebra,814,2.88
+889,MATH,416,Abstract Linear Algebra,143,3.15
+890,MATH,417,Intro to Abstract Algebra,76,3.05
+891,MATH,441,Differential Equations,141,3.02
+892,MATH,442,Intro Partial Diff Equations,59,2.69
+893,MATH,444,Elementary Real Analysis,95,3.22
+894,MATH,446,Applied Complex Variables,67,3.12
+895,MATH,453,Elementary Theory of Numbers,51,3.23
+896,MATH,461,Probability Theory,76,3.01
+897,MATH,482,Linear Programming,28,3.28
+898,MATH,484,Nonlinear Programming,33,3.41
+899,MATH,490,Computational Math,26,3.21
+900,MATH,540,Real Analysis,22,3.33
+901,MBA,503,Strategy,200,3.72
+902,MBA,504,Global Strategy,200,3.41
+903,MCB,100,Introductory Microbiology,248,2.96
+904,MCB,101,Intro Microbiology Laboratory,164,3.32
+905,MCB,150,Molec & Cellular Basis of Life,252,3.01
+906,MCB,246,Human Anatomy & Physiology II,423,2.81
+907,MCB,247,Human Anat & Physiol Lab II,342,2.49
+908,MCB,250,Molecular Genetics,65,2.71
+909,MCB,251,Exp Techniqs in Molecular Biol,42,3.51
+910,MCB,252,"Cells, Tissues & Development",111,3.27
+911,MCB,253,Exp Techniqs in Cellular Biol,155,3.84
+912,MCB,270,Medical Genetics,83,3.36
+913,MCB,300,Microbiology,112,3.08
+914,MCB,301,Experimental Microbiology,144,3.31
+915,MCB,317,Genetics and Genomics,182,2.94
+916,MCB,320,Mechanisms of Human Disease,94,3.42
+917,MCB,354,Biochem & Phys Basis of Life,42,2.51
+918,MCB,402,Sys & Integrative Physiology,107,3.55
+919,MCB,410,"Dev Bio, Stem Cells, Regen Med",32,3.42
+920,MCB,432,Computing in Molecular Biology,24,3.56
+921,MCB,435,Evolution of InfectiousDisease,43,3.41
+922,MCB,450,Introductory Biochemistry,273,2.86
+923,MCB,458,Basic Human Pathology,45,3.43
+924,MCB,462,Integrative Neuroscience,91,3.51
+925,MCB,465,Human Metabolic Disease,42,3.25
+926,MCB,480,Eukaryotic Cell Signaling,54,3.74
+927,MCB,493,Epigenetics,22,3.55
+928,MDIA,223,Watching the Environment,77,2.68
+929,MDIA,270,Introduction to Media Sales,63,3.55
+930,MDIA,320,Media Sales Management,98,3.6
+931,MDIA,370,Advanced Media Sales,140,3.35
+932,MDIA,380,21st Century Documentaries,21,3.65
+933,ME,170,Computer-Aided Design,112,3.69
+934,ME,199,Undergraduate Open Seminar,152,3.91
+935,ME,200,Thermodynamics,251,3.4
+936,ME,270,Design for Manufacturability,103,3.69
+937,ME,310,Fundamentals of Fluid Dynamics,105,2.97
+938,ME,320,Heat Transfer,96,2.69
+939,ME,330,Engineering Materials,102,2.61
+940,ME,340,Dynamics of Mechanical Systems,82,3.47
+941,ME,360,Signal Processing,69,3.35
+942,ME,370,Mechanical Design I,89,3.26
+943,ME,371,Mechanical Design II,56,3.6
+944,ME,400,Energy Conversion Systems,34,3.26
+945,ME,412,Numerical Thermo-Fluid Mechs,23,3.9
+946,ME,431,Mechanical Component Failure,48,3.88
+947,ME,465,Optics: Theory & Applications,28,3.91
+948,ME,470,Senior Design Project,136,3.64
+949,ME,471,Finite Element Analysis,40,3.44
+950,ME,472,Introduction to Tribology,24,3.75
+951,ME,481,Whole-Body Musculoskel Biomech,34,3.89
+952,ME,483,Mechanobiology,26,3.65
+953,ME,487,MEMS-NEMS Theory & Fabrication,25,3.57
+954,ME,498,Bio-Inspired Design,28,3.77
+955,MSE,183,Freshman Materials Laboratory,56,3.95
+956,MSE,201,Phases and Phase Relations,36,2.84
+957,MSE,206,Mechanics for MatSE,49,3.3
+958,MSE,280,Engineering Materials,59,3.39
+959,MSE,304,Electronic Properties of Matls,61,3.38
+960,MSE,308,Materials Laboratory II,79,3.64
+961,MSE,395,Materials Design,100,3.94
+962,MSE,402,Kinetic Processes in Materials,90,3.13
+963,MSE,405,Microstructure Determination,83,2.76
+964,MSE,422,Electrical Ceramics,22,3.24
+965,MSE,441,Metals Processing,25,3.03
+966,MSE,450,Polymer Science & Engineering,72,3.25
+967,MSE,453,Plastics Engineering,38,2.9
+968,MSE,458,Polymer Physics,22,3.24
+969,MSE,460,Electronic Materials I,21,3.4
+970,MSE,473,Biomolecular Materials Science,41,3.42
+971,MSE,474,Biomaterials and Nanomedicine,52,3.6
+972,MUS,130,Introd to the Art of Music,128,3.36
+973,MUS,133,Introduction to World Music,451,3.39
+974,MUS,240,Orientation Mus Tchg Lrng K-HS,42,3.77
+975,MUS,244,Social Foundations of Music Ed,35,3.53
+976,MUS,250,U of I Symphony Orchestra,44,3.93
+977,MUS,261,University Mixed Chorus,82,3.88
+978,MUS,263,Men's Glee Club,38,3.92
+979,MUS,314,The History of Music II,80,3.26
+980,MUS,342,Music in Childhood,29,3.68
+981,MUS,400,Counterpoint and Fugue,25,3.65
+982,MUS,408,Analysis of Musical Form,22,3.58
+983,MUS,414,Music & Mental Illness,26,2.71
+984,MUS,434,Assessment/Eval in Music Ed,24,3.36
+985,MUS,450,U of I Symphony Orchestra,35,3.96
+986,MUS,499,Popular Music Production,61,3.67
+987,MUSE,250,The World Through Museums,59,3.29
+988,NPRE,101,Introduction to Energy Sources,49,2.88
+989,NPRE,199,Undergraduate Seminar,34,3.96
+990,NPRE,402,Nuclear Power Engineering,114,3.49
+991,NPRE,421,Plasma and Fusion Science,35,3.1
+992,NPRE,441,Radiation Protection,37,3.8
+993,NPRE,447,Radiation Interact w/Matter II,32,3.21
+994,NPRE,455,Neutron Diffusion & Transport,39,2.97
+995,NPRE,458,Design in NPRE,28,3.72
+996,NPRE,470,Fuel Cells & Hydrogen Sources,49,3.29
+997,NPRE,475,Wind Power Systems,89,3.89
+998,NPRE,483,Seminar on Security,21,3.56
+999,NRES,101,Wildlife Conserv 21st Century,286,2.82
+1000,NRES,102,Introduction to NRES,332,2.9
+1001,NRES,105,Climate Change and Ecosystems,85,2.55
+1002,NRES,201,Introductory Soils,83,2.4
+1003,NRES,287,Environment and Society,147,2.88
+1004,NRES,325,Natural Resource Policy Mgmt,47,3.2
+1005,NRES,401,Watershed Hydrology,24,3.33
+1006,NRES,407,Wildlife Population Ecology,27,3.15
+1007,NRES,420,Restoration Ecology,27,3.32
+1008,NRES,421,Quantitative Methods in NRES,86,3.12
+1009,NRES,456,Integrative Ecosystem Mgmt,61,3.35
+1010,NRES,474,Soil and Water Conservation,32,3.44
+1011,NRES,488,Soil Fertility and Fertilizers,39,2.81
+1012,NRES,499,NRES 456 Group Project,56,3.41
+1013,NUTR,510,Essential Fats and Cholesterol,21,3.7
+1014,NUTR,511,Regulation of Metabolism,22,3.53
+1015,PHIL,101,Introduction to Philosophy,47,3.15
+1016,PHIL,102,Logic and Reasoning,339,3.1
+1017,PHIL,103,Logic and Reasoning QR II,45,2.65
+1018,PHIL,107,Intro to Political Philosophy,23,3.58
+1019,PHIL,203,Ancient Philosophy,69,2.75
+1020,PHIL,206,Early Modern Philosophy,40,2.91
+1021,PHIL,214,Biomedical Ethics,46,3.3
+1022,PHIL,414,Major Recent Philosophers,28,3.74
+1023,PHIL,421,Ethical Theories,28,2.74
+1024,PHIL,426,Metaphysics,25,3.4
+1025,PHIL,438,Philosophy of Language,21,2.8
+1026,PHYS,101,College Physics: Mech & Heat,283,2.75
+1027,PHYS,102,College Physics: E&M & Modern,342,2.83
+1028,PHYS,123,Physics Made Easy,64,3.76
+1029,PHYS,211,University Physics: Mechanics,1069,2.99
+1030,PHYS,212,University Physics: Elec & Mag,659,2.76
+1031,PHYS,213,Univ Physics: Thermal Physics,528,2.92
+1032,PHYS,214,Univ Physics: Quantum Physics,541,2.6
+1033,PHYS,225,Relativity & Math Applications,115,3.08
+1034,PHYS,280,Nuclear Weapons & Arms Control,62,3.76
+1035,PHYS,325,Classical Mechanics I,100,2.83
+1036,PHYS,326,Classical Mechanics II,71,2.85
+1037,PHYS,398,Soph/Junr Special Topics Phys,25,3.71
+1038,PHYS,401,Classical Physics Lab,26,2.94
+1039,PHYS,402,Light,48,3.16
+1040,PHYS,403,Modern Experimental Physics,26,3.77
+1041,PHYS,427,Thermal & Statistical Physics,66,3.5
+1042,PHYS,435,Electromagnetic Fields I,87,3.43
+1043,PHYS,436,Electromagnetic Fields II,59,3.24
+1044,PHYS,470,Subatomic Physics,43,3.4
+1045,PHYS,486,Quantum Physics I,92,2.97
+1046,PHYS,487,Quantum Physics II,45,2.96
+1047,PHYS,498,Special Topics in Physics,21,3.3
+1048,PHYS,504,Statistical Physics,42,3.53
+1049,PHYS,513,Quantum Optics & Information,41,3.74
+1050,PHYS,560,Condensed Matter Physics I,30,3.37
+1051,PLPA,200,"Plants, Pathogens, and People",127,3.7
+1052,PLPA,204,Introductory Plant Pathology,41,3.08
+1053,POL,115,Intro to Polish Culture,37,3.72
+1054,PS,100,Intro to Political Science,284,3.26
+1055,PS,101,Intro to US Gov & Pol,90,3.25
+1056,PS,191,Civic Careers,29,3.51
+1057,PS,220,Intro to Public Policy,146,2.92
+1058,PS,231,Strategic Models,70,2.69
+1059,PS,240,Intro to Comp Politics,83,3.5
+1060,PS,241,Comp Politics in Dev Nations,32,2.94
+1061,PS,270,Intro to Political Theory,111,3.11
+1062,PS,280,Intro to Intl Relations,79,3.21
+1063,PS,282,Governing Globalization,27,3.52
+1064,PS,283,Intro to Intl Security,75,3.18
+1065,PS,300,Terrorism,31,3.55
+1066,PS,301,The US Constitution I,27,3.27
+1067,PS,318,Interests Grps & Soc Movements,106,3.24
+1068,PS,343,Gov & Pol of China,22,3.68
+1069,PS,377,Justice in the Law,79,3.54
+1070,PS,385,Politics of the European Union,50,3.43
+1071,PS,386,International Law,79,3.34
+1072,PS,390,American Foreign Policy,84,3.2
+1073,PSYC,100,Intro Psych,740,2.84
+1074,PSYC,201,Intro to Social Psych,438,2.68
+1075,PSYC,207,Psych of Prejudice & Discrim,77,3.13
+1076,PSYC,210,Behavioral Neuroscience,187,2.57
+1077,PSYC,216,Child Psych,212,2.94
+1078,PSYC,224,Cognitive Psych,180,2.81
+1079,PSYC,230,Perception & Sensory Processes,210,3.47
+1080,PSYC,235,Intro to Statistics,36,2.92
+1081,PSYC,238,Psychopathol & Probs in Living,366,3.24
+1082,PSYC,239,Community Psych,79,3.68
+1083,PSYC,245,Industrial Org Psych,145,3.09
+1084,PSYC,248,Learning and Memory,162,2.56
+1085,PSYC,250,Psych of Personality,131,3.26
+1086,PSYC,302,Applied Neuroscience,39,3.18
+1087,PSYC,308,Psych Religion & Spirituality,52,3.47
+1088,PSYC,318,Psych of the Infant,72,2.96
+1089,PSYC,327,Psychology of Human Sexuality,123,3.37
+1090,PSYC,328,Psychology of Gender,129,2.7
+1091,PSYC,332,Social Psych Methods Lab,137,3.29
+1092,PSYC,350,Personality Lab,43,3.37
+1093,PSYC,353,Social Cognition,95,3.25
+1094,PSYC,361,The Psychology of Aging,141,2.89
+1095,PSYC,363,Developmental Child Psych Lab,42,3.23
+1096,PSYC,365,"Stress, Trauma and Resilience",210,3.36
+1097,PSYC,379,Clinical/Abnormal Psych Lab,92,2.85
+1098,PSYC,404,Cognitive Neuroscience,50,3.5
+1099,PSYC,413,Psychopharmacology,140,3.12
+1100,PSYC,445,Cognitive Neuroscience Lab,28,3.54
+1101,PSYC,455,Organizational Psych,122,3.68
+1102,PSYC,465,Personality and Soc Dev,65,3.14
+1103,PSYC,496,Schizotypy & Schizophrenia,54,3.61
+1104,PSYC,507,Statistical Methods II,31,3.61
+1105,REHB,330,Disability in American Society,77,3.25
+1106,REHB,435,Work and Disability,30,3.21
+1107,REL,109,Religion & Society in West II,92,3.59
+1108,REL,110,World Religions,439,3.65
+1109,REL,132,Zen,31,3.67
+1110,REL,208,Cultures & Lits of South Asia,47,3.98
+1111,REL,235,History of Religion in America,21,3.37
+1112,REL,287,Introduction to Buddhism,34,2.72
+1113,RHET,233,Adv Rhetoric & Composition,47,3.53
+1114,RST,100,RST in Modern Society,143,2.87
+1115,RST,101,Orientation to RST,66,3.33
+1116,RST,120,"Parks, Recreation, Environment",26,3.18
+1117,RST,130,Foundations of Sport Mgt,93,2.79
+1118,RST,150,Foundations of Tourism,27,3.12
+1119,RST,199,Sport & Sustainability,399,3.3
+1120,RST,200,Leadership in RST,100,3.35
+1121,RST,230,Diversity in RST,88,2.98
+1122,RST,240,Finance in RST,130,3.27
+1123,RST,242,Nature and American Culture,1129,3.6
+1124,RST,255,Ethical Issues in RST,52,2.38
+1125,RST,316,Leisure and Human Development,49,3.22
+1126,RST,325,Marketing in RST,58,2.97
+1127,RST,335,Leisure and Consumer Culture,68,2.95
+1128,RST,340,Facility Management in RST,44,3.82
+1129,RST,354,Legal Aspects of Sport,35,3.14
+1130,RST,360,Communication in RST,78,3.22
+1131,RST,370,Research Methods & Analysis,40,3.0
+1132,RST,393,Event Implementation and Eval,58,3.68
+1133,RST,410,Strategic Thinking in RST,43,3.0
+1134,RST,429,Contemporary Issues in RST,51,2.54
+1135,RST,460,Event Management in RST,30,3.03
+1136,RST,480,Orientation to Practicum,52,3.2
+1137,RUSS,323,Tolstoy,42,3.44
+1138,SBC,504,Managing Projects & Teams,38,3.69
+1139,SBC,506,Measurement and Evaluation,39,3.77
+1140,SCAN,225,Vikings to Volvos: Scandinavia,24,3.75
+1141,SE,101,Engineering Graphics & Design,173,3.23
+1142,SE,261,Business Side of Engineering,63,3.09
+1143,SE,311,Engineering Design Analysis,66,3.07
+1144,SE,312,Instrumentation and Test Lab,65,3.01
+1145,SE,400,Engineering Law,40,3.55
+1146,SE,422,Robot Dynamics and Control,25,3.4
+1147,SE,423,Mechatronics,41,3.4
+1148,SE,424,State Space Design for Control,64,3.25
+1149,SE,494,Senior Engineering Project I,50,3.75
+1150,SE,495,Senior Engineering Project II,56,3.94
+1151,SHS,120,"Child, Comm, & Lang Ability",570,3.61
+1152,SHS,121,American Sign Language I,46,3.44
+1153,SHS,170,Intro Hum Comm Sys & Disorders,111,3.11
+1154,SHS,200,General Phonetics,80,3.46
+1155,SHS,222,Lang&Culture Deaf Communities,169,3.65
+1156,SHS,240,Intro Sound & Hearing Science,74,3.51
+1157,SHS,271,Communication and Aging,81,3.52
+1158,SHS,301,General Speech Science,81,3.48
+1159,SHS,321,American Sign Language III,22,3.41
+1160,SHS,352,Hearing Health and Society,51,3.98
+1161,SHS,375,Comm Partners & Health,21,3.49
+1162,SHS,380,Comm Competence and Disorders,62,3.32
+1163,SHS,385,Evidence-Based Practice in CSD,71,3.32
+1164,SHS,427,Language and the Brain,42,3.27
+1165,SHS,473,Augmentative & Alt Comm,91,3.58
+1166,SHS,571,Clinical Sociolinguistics,23,3.62
+1167,SHS,576,School Intrnshp Spch-Lang Path,23,3.94
+1168,SHS,593,Inf Feeding / Craniofacial Dif,22,3.86
+1169,SOC,100,Introduction to Sociology,399,3.34
+1170,SOC,101,Sociology of Gender,39,2.96
+1171,SOC,160,Global Ineq and Social Change,41,3.33
+1172,SOC,162,Intro to Intl Health Policy,43,3.37
+1173,SOC,163,Social Problems,29,2.99
+1174,SOC,196,Issues in Sociology,50,3.31
+1175,SOC,200,Intro to Sociological Theory,58,3.36
+1176,SOC,225,Race and Ethnicity,48,3.3
+1177,SOC,274,"Health, Illness and Society",53,3.5
+1178,SOC,275,Criminology,115,3.17
+1179,SOC,350,Technology and Society,55,3.63
+1180,SOC,375,Criminal Justice System,66,3.34
+1181,SOC,378,Sociology of Law,60,3.71
+1182,SOC,396,Topics in Sociology,23,3.71
+1183,SOC,470,Social Movements,21,3.34
+1184,SOC,479,Law and Society,36,3.24
+1185,SOCW,200,Introduction to Social Work,71,3.2
+1186,SOCW,240,Death & Dying,29,3.51
+1187,SOCW,297,Asian Families in America,39,3.97
+1188,SOCW,300,Diversity: Identities & Issues,118,3.41
+1189,SOCW,321,Social Entre & Social Change,28,3.54
+1190,SOCW,360,Social Work and the Military,28,3.79
+1191,SOCW,402,Practice II,46,3.35
+1192,SOCW,410,Social Welfare Pol and Svcs,52,3.76
+1193,SOCW,416,Child Welfare Issues & Trends,30,3.42
+1194,SOCW,417,Dementia Care for Older Adults,21,3.66
+1195,SOCW,451,HBSE I: Human Development,46,3.6
+1196,SOCW,470,Field Prac & Prof Seminar II,49,3.86
+1197,SOCW,500,SW Practice with Indiv and Fam,21,3.62
+1198,SOCW,503,Trauma Informed SW w/ Children,25,3.72
+1199,SOCW,507,School Social Work Practice,21,3.76
+1200,SOCW,508,Family Therapy Seminar,21,3.92
+1201,SOCW,509,Adv Clin Assess & Interviewing,22,3.85
+1202,SOCW,515,Intg Health Care Pol and Svcs,28,3.85
+1203,SOCW,516,"Child, Youth and Family Svcs",21,3.29
+1204,SOCW,519,Public School Policy/Services,22,3.77
+1205,SOCW,526,Managing Human Service Orgs,22,3.68
+1206,SOCW,552,HBSE II: Mental Disorders,52,3.72
+1207,SOCW,553,Integrated Behav. Health & HC,44,3.86
+1208,SOCW,589,Social Work and the Law,55,3.68
+1209,SPAN,130,Intermediate Spanish,25,3.61
+1210,SPAN,208,Oral Spanish,21,3.7
+1211,SPAN,228,Spanish Composition,22,3.44
+1212,SPAN,252,Intro to Hispanic Linguistics,25,3.37
+1213,SPAN,303,The Sounds of Spanish,21,3.67
+1214,SPAN,307,Bilingualism,22,3.86
+1215,SPAN,308,Spanish in the United States,47,3.5
+1216,SPED,117,The Culture of Disability,673,3.83
+1217,SPED,312,Intro to Ed Technology,34,3.94
+1218,SPED,322,Intro Intellectual Disability,51,3.8
+1219,SPED,426,Collaboration and Teaming,27,3.91
+1220,SPED,448,Curriculum Development III,30,3.6
+1221,STAT,100,Statistics,1355,3.24
+1222,STAT,200,Statistical Analysis,460,3.27
+1223,STAT,212,Biostatistics,205,3.38
+1224,STAT,385,Statistics Programming Methods,92,3.46
+1225,STAT,400,Statistics and Probability I,674,3.07
+1226,STAT,408,Actuarial Statistics I,68,2.62
+1227,STAT,410,Statistics and Probability II,229,3.2
+1228,STAT,420,Methods of Applied Statistics,251,3.48
+1229,STAT,424,Analysis of Variance,26,3.68
+1230,STAT,425,Applied Regression and Design,162,3.02
+1231,STAT,426,Sampling and Categorical Data,76,3.62
+1232,STAT,428,Statistical Computing,68,2.93
+1233,STAT,430,DataScience ProgrammingMethods,111,3.46
+1234,STAT,431,Applied Bayesian Analysis,83,3.66
+1235,STAT,432,Basics of Statistical Learning,99,3.5
+1236,STAT,440,Statistical Data Management,82,3.35
+1237,STAT,448,Advanced Data Analysis,104,3.62
+1238,STAT,480,Data Science Foundations,68,3.38
+1239,STAT,510,Mathematical Statistics I,47,3.63
+1240,STAT,511,Mathematical Statistics II,29,3.95
+1241,STAT,542,Statistical Learning,64,3.93
+1242,STAT,578,Stat Learning in Data Science,37,3.81
+1243,TAM,210,Introduction to Statics,148,3.21
+1244,TAM,211,Statics,112,3.07
+1245,TAM,212,Introductory Dynamics,386,2.98
+1246,TAM,251,Introductory Solid Mechanics,300,3.21
+1247,TAM,252,Solid Mechanics Design,22,3.29
+1248,TAM,335,Introductory Fluid Mechanics,115,2.89
+1249,TAM,412,Intermediate Dynamics,33,2.97
+1250,TAM,445,Continuum Mechanics,35,3.16
+1251,TAM,542,Mathematical Methods II,28,3.48
+1252,TE,250,From Idea to Enterprise,39,3.83
+1253,TE,333,"Creativity, Innovation, Vision",30,3.26
+1254,TE,360,Lect in Engrg Entrepreneurship,120,3.92
+1255,TE,401,Develop Breakthrough Projects,57,3.93
+1256,TE,450,"Startups:Inc,Fund,Contracts,IP",31,3.52
+1257,TE,460,Lect in Engrg Entrepreneurship,28,3.93
+1258,TE,466,High-Tech Venture Marketing,24,3.57
+1259,TE,566,Finance for Engineering Mgmt,22,3.82
+1260,THEA,100,Practicum I,66,3.79
+1261,THEA,101,Introduction to Theatre Arts,1173,3.57
+1262,THEA,103,Survey of Theatre Production,37,3.4
+1263,THEA,110,Broadway Musicals,95,3.82
+1264,THEA,175,Fundamentals of Acting II,23,3.0
+1265,THEA,361,History of Theatre II,48,3.47
+1266,THEA,400,Practicum IV,22,3.72
+1267,THEA,450,Management Seminar,23,3.84
+1268,THEA,595,Creative Project,41,3.65
+1269,TSM,100,Technical Systems in Agr,55,2.38
+1270,TSM,234,"Wiring, Motors and Control Sys",51,2.98
+1271,TSM,262,Off-Road Equipment Management,24,3.08
+1272,TSM,311,Humanity in the Food Web,102,3.4
+1273,TSM,363,Fluid Power Systems,22,3.15
+1274,TSM,371,Residential Housing Design,33,2.83
+1275,TSM,381,Grain Drying & Storage Systems,34,3.06
+1276,TSM,464,Engine and Tractor Power,23,2.57
+1277,UP,185,Cities in a Global Perspective,33,3.53
+1278,UP,201,Planning in Action,37,3.56
+1279,UP,204,Chicago: Planning & Urban Life,30,3.05
+1280,UP,205,Ecology & Env Sustainability,44,3.26
+1281,UP,316,Urban Informatics II,34,3.02
+1282,UP,345,Economic Development Planning,24,3.63
+1283,UP,406,Urban Ecology,29,3.16
+1284,UP,418,GIS for Planners,41,3.62
+1285,UP,466,"Energy, Plng & Blt Environment",22,3.76
+1286,UP,475,Real Estate Dev. Fundamentals,26,3.82
+1287,UP,494,Public Transportation Planning,23,3.65
+1288,UP,505,Urban and Regional Analysis,26,3.6
+1289,UP,510,Plan Making,26,3.5
+1290,VM,603,Structure and Function II,129,3.02
+1291,VM,604,Structure and Function III,129,3.08
+1292,VM,608,Pathobiology III,136,2.95
+1293,VM,611,Medicine and Surgery III,155,2.5
